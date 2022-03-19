@@ -1,0 +1,21 @@
+li{
+    list-style: none;
+    display: inline;
+    position:relative;
+    left:35%;
+    padding: 20px;
+}
+.heading{
+    background-color: rgb(216, 176, 89);
+    color:rgb(231, 219, 219);
+    width: 100%;
+    max-height: 100px;
+    height: 100px;
+}
+.count{
+    right: 10%;
+    position: relative;
+    color: black;
+    padding: 30%;
+
+}
